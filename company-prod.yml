@@ -22,4 +22,4 @@ info:
 logging:
   file: D:/logs/CompanyService/application_prod.log
   level:
-    root: INFO
+    root: DEBUG
