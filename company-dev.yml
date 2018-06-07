@@ -7,7 +7,7 @@ server:
 
 info:
   app:
-    name: '{cipher}595e3ffb02bdb99a230a1b44905caa151bf9d0bcddb47df040101752c32ac95d'
+    name: '{cipher}78067f4c05ed215fb80d1c805e907a4cc5c6ebaca0686518c9d784e0830a1523bb09a6b63d79a29c2bb7b2700f2681f6'
     description: Spring company Actuator Working Examples Test jhipster
 
 logging:
